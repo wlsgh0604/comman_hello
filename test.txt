@@ -1,7 +1,9 @@
 //For commit GitHub tutorial
-//GitHub modification
+//First GitHub modification
+//Seconnd Local repository modification
+
 print("hello world")
 print("Tell Your World")
-print("different Line")
-print("test")
-
+print("Tell his World")
+print("Tell her World")
+print("Tell My World")
